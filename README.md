@@ -22,8 +22,8 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 
    ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 - **Control de Versiones & Terminal:** 
 
@@ -42,10 +42,9 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[M-Lobos]&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas de [M-Lobos]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[M-Lobos]&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de [M-Lobos]" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=M-Lobos&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas de M-Lobos" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lobos&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de M-Lobos" />
 </p>
-
 ---
 
 ## 🚀 Información Adicional & Proyectos
