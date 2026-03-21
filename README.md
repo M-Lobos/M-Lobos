@@ -43,7 +43,7 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[M-Lobos]&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas de [M-Lobos]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de [TU_USUARIO_DE_GITHUB]" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[M-Lobos]&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de [M-Lobos]" />
 </p>
 
 ---
