@@ -40,15 +40,13 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 ---
 
 ## 📈 Estadísticas de GitHub
-<!--
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=M-Lobos&show_icons=true&theme=radical&locale=es&hide_border=true" alt="Estadísticas de M-Lobos" />
-    -->
-    
 
-    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lobos&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de M-Lobos" />
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p>
+ <!--     EL SERVICIO DE VERCEL.APP YA NO POSEE SOPORTE POR LO QUE SE SATURA 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lobos&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de M-Lobos" /> -->
+
+<!--     EL SERVICIO DE SHION DEV ES UNA ALTERNATIVA TEMPORAL, SE RECOMIENDA REALIZAR UN DESPLIOEGUE PROPIO EN VECEL-->
+<img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=M-Lobos&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de M-Lobos" />
 </p>
 
 ---
