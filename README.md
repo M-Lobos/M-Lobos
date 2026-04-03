@@ -48,8 +48,7 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 
     
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Lobos&layout=compact&theme=radical&locale=es&hide_border=true" alt="Lenguajes más usados de M-Lobos" />
-
- ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=M-Lobos&show_icons=true&theme=radical)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 </p>
 
 ---
