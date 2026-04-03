@@ -4,7 +4,7 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 
 ---
 
-## 🛠️ Mi Stack Técnico y Habilidades
+## 🛠️ Mi Stack Técnico y Habilidades 🧰
 
 ### Stack Principal:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -12,7 +12,7 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 ### Stack en Desarrollo:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-### 🧰 Herramientas y Tecnologías:
+### Herramientas y Tecnologías :
 
 - **IDEs y Editor de código:**
 
@@ -55,9 +55,9 @@ Desarrollador Web Junior con trasfondo en negocios y emprendimiento. Mi enfoque 
 - Pasión por la convergencia entre artes y desarrollo de software.
 - O'Higgins / Santiago, Chile.
 
-**Proyectos Web:** 📋 To-Do List, 💼 Portafolio Profesional, 👨 Administrador de Clientes, 🐕 Plataforma de Adopción Animal.
+**Proyectos Web:**  To-Do List,  Portafolio Profesional,  Administrador de Clientes,  Plataforma de Adopción Animal.
 
-**Proyectos Mobile:** 💳 Billetera Virtual, 👟 ShoesTap App, 🦁 ZooApp.
+**Proyectos Mobile:**  Billetera Virtual,  ShoesTap App,  ZooApp.
 
 ---
 
